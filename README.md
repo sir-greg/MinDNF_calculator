@@ -1,0 +1,1 @@
+# MinDNF_calculator
