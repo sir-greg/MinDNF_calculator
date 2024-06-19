@@ -12,3 +12,4 @@ The calculation goes through a 6-step process:
 5. For every row, we brute force through all combinations of conjunctions we can take. From these combinations we take the minimal DNFS of the function.
 
 This project was done using SFML.
+MinDNFwithExecutable.zip has a working exe file
